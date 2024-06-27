@@ -1,0 +1,5 @@
+org.springframework.test.context.ContextCustomizerFactory = xperma.lawyerfirm.\
+    config.SqlTestContainersSpringContextCustomizerFactory,xperma.lawyerfirm.\
+    config.TestContainersSpringContextCustomizerFactory,xperma.lawyerfirm.\
+    config.RedisTestContainersSpringContextCustomizerFactory,xperma.lawyerfirm.\
+    config.KafkaTestContainersSpringContextCustomizerFactory
